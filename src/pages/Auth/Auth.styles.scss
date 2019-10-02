@@ -8,10 +8,12 @@
 @media only screen and (max-width: 800px) {
     .sign-in-and-sign-up{
         flex-direction: column;
+        width: 100%;
 
         & div{
-            margin: 10px 0;
+            margin: 20px auto;
             position: relative;
+            text-align: center;
         }
     }
 
